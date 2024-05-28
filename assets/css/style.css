@@ -1,0 +1,5 @@
+/* зозвнішній стиль
+прив'язка до файлу: link rel="stylesheet" href="./assets/css/style.css" */
+h1 {
+  color: blue;
+}
