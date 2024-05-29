@@ -1,26 +1,17 @@
-/* зозвнішній стиль
-прив'язка до файлу: link rel="stylesheet" href="./assets/css/style.css" */
 
-/* селектор тегу (селектор елементу) */
 h1 {
   color: blue;
 }
+ body {
+  font-family: sans-serif;
+  border: 5px red solid;
+  text-align: center;
+ }
 
-/* селектор класу */
-.annotation {
-  font-size: 10px;
-}
+ ul {
+  text-align: initial;
+ }
 
-#subscrabe-btn {
-  font-size: 40px;
-  color: brown;
-  background-color: darkslategray;
-}
-
-/* subscrabe-btn - kebab case
-                  - camelCase
-                  - lowerCamelCase
-                  - UpperCamelCase (PascalCase)
-    subscrabe_btn - snake_case
-    I_AM_CONSTANT
-                   */
+ .nan-link-item {
+  
+ }
